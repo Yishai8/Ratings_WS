@@ -1,0 +1,19 @@
+{
+  "name": "yishai_neeman",
+  "version": "1.0.0",
+  "description": "hotels_ratings_module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yishai8/Ratings_WS.git"
+  },
+  "author": "Yishai Neeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yishai8/Ratings_WS/issues"
+  },
+  "homepage": "https://github.com/Yishai8/Ratings_WS#readme"
+}
